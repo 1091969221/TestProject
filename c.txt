@@ -1,7 +1,13 @@
+由于测试人员改动的代码通常不是正式的代码，所以在编写后要将分支删除。
 
-ccjjsj
-ssssss
+进入项目 -> Repository -> Branches -> 选择分支进行删除
 
-ccanjjsmm
-bbbbbbbbb
+点击右下角分支菜单 -> New Branch -> 输入分支名 -> 点击【OK】成功创建分支
 
+创建好分支后，开始编辑代码
+
+代码编写完毕 -> 点击右上角绿色的勾（Commit） -> 在“Commit Message”输入这次更新的内容
+
+-> 点击【Commit and push】，将代码上传到git，如果git上有该分支，则在分支上修改代码，若git上无该分支，则新建分支
+
+或点击【Commint】，将代码上传到git，暂时先不创建分支，待push后创建分支
