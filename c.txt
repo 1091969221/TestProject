@@ -11,3 +11,4 @@
 -> 点击【Commit and push】，将代码上传到git，如果git上有该分支，则在分支上修改代码，若git上无该分支，则新建分支
 
 或点击【Commint】，将代码上传到git，暂时先不创建分支，待push后创建分支
+打开Idea -> 点击菜单栏File -> New -> Project from Version Control -> Git -> 输入Git里项目的Url -> 输入项目在本地存放的路径 -> 点击【Clone】 -> 等待即可
