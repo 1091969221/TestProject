@@ -1,5 +1,7 @@
 package xyz.yuluo.dao;
 
 public class TestDao {
-//    测试dao层的提交啊  啊
+    public static void main(String[] args) {
+        System.out.println("梦涵是个单身狗！");
+    }
 }
